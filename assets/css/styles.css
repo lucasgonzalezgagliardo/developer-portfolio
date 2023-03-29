@@ -444,3 +444,8 @@ footer {
   margin-top: 3rem;
   margin-bottom: 0;
 }
+
+#bullets {
+  font-size: 0.7 rem;
+  width: 20 vw;
+}
